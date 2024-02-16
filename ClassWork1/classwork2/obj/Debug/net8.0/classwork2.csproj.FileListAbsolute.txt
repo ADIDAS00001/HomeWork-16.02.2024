@@ -1,0 +1,14 @@
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 4\ClassWork\classwork2\bin\Debug\net8.0\classwork2.exe
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 4\ClassWork\classwork2\bin\Debug\net8.0\classwork2.deps.json
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 4\ClassWork\classwork2\bin\Debug\net8.0\classwork2.runtimeconfig.json
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 4\ClassWork\classwork2\bin\Debug\net8.0\classwork2.dll
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 4\ClassWork\classwork2\bin\Debug\net8.0\classwork2.pdb
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 4\ClassWork\classwork2\obj\Debug\net8.0\classwork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 4\ClassWork\classwork2\obj\Debug\net8.0\classwork2.AssemblyInfoInputs.cache
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 4\ClassWork\classwork2\obj\Debug\net8.0\classwork2.AssemblyInfo.cs
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 4\ClassWork\classwork2\obj\Debug\net8.0\classwork2.csproj.CoreCompileInputs.cache
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 4\ClassWork\classwork2\obj\Debug\net8.0\classwork2.dll
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 4\ClassWork\classwork2\obj\Debug\net8.0\refint\classwork2.dll
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 4\ClassWork\classwork2\obj\Debug\net8.0\classwork2.pdb
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 4\ClassWork\classwork2\obj\Debug\net8.0\classwork2.genruntimeconfig.cache
+C:\Users\Eng Sear\Desktop\C# Course\Week - 1\day - 4\ClassWork\classwork2\obj\Debug\net8.0\ref\classwork2.dll
